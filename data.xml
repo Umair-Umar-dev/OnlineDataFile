@@ -2,7 +2,7 @@
 <ArrayOfLevelInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <LevelInfo>
     <levelNumber>0</levelNumber>
-    <LevelTimer>40</LevelTimer>
+    <LevelTimer>100</LevelTimer>
     <Stage>Stage1</Stage>
     <enemySpawnInfo>
       <EnemySpawnInfo>
