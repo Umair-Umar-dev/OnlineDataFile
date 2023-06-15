@@ -13,7 +13,7 @@
           <Type>Common</Type>
           <Health>100</Health>
           <Attack>10</Attack>
-          <spawnAmount>1</spawnAmount>
+          <spawnAmount>10</spawnAmount>
         </EnemySpawnInfo>
       </enemySpawnInfo>
     </LevelInfo>
