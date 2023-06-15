@@ -6,7 +6,7 @@
   <levelInfos>
     <LevelInfo>
       <levelNumber>0</levelNumber>
-      <LevelTimer>80</LevelTimer>
+      <LevelTimer>20</LevelTimer>
       <Stage>Stage1</Stage>
       <enemySpawnInfo>
         <EnemySpawnInfo>
@@ -56,8 +56,8 @@
         </EnemySpawnInfo>
         <EnemySpawnInfo>
           <Type>UnCommon</Type>
-          <Health>100</Health>
-          <Attack>10</Attack>
+          <Health>200</Health>
+          <Attack>25</Attack>
           <spawnAmount>1</spawnAmount>
         </EnemySpawnInfo>
       </enemySpawnInfo>
@@ -75,8 +75,8 @@
         </EnemySpawnInfo>
         <EnemySpawnInfo>
           <Type>UnCommon</Type>
-          <Health>100</Health>
-          <Attack>10</Attack>
+          <Health>200</Health>
+          <Attack>25</Attack>
           <spawnAmount>2</spawnAmount>
         </EnemySpawnInfo>
       </enemySpawnInfo>
@@ -94,8 +94,8 @@
         </EnemySpawnInfo>
         <EnemySpawnInfo>
           <Type>UnCommon</Type>
-          <Health>100</Health>
-          <Attack>10</Attack>
+          <Health>200</Health>
+          <Attack>25</Attack>
           <spawnAmount>3</spawnAmount>
         </EnemySpawnInfo>
       </enemySpawnInfo>
