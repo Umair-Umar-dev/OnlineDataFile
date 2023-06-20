@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PlayerModel xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <currentLevel>0</currentLevel>
-  <score>20</score>
+  <score>160</score>
   <currency>0</currency>
   <levelInfos>
     <LevelInfo>
       <levelNumber>0</levelNumber>
-      <LevelTimer>13</LevelTimer>
+      <LevelTimer>60</LevelTimer>
       <Stage>Stage1</Stage>
       <enemySpawnInfo>
         <EnemySpawnInfo>
@@ -19,7 +19,7 @@
     </LevelInfo>
     <LevelInfo>
       <levelNumber>1</levelNumber>
-      <LevelTimer>45</LevelTimer>
+      <LevelTimer>25</LevelTimer>
       <Stage>Stage1</Stage>
       <enemySpawnInfo>
         <EnemySpawnInfo>
@@ -32,7 +32,7 @@
     </LevelInfo>
     <LevelInfo>
       <levelNumber>2</levelNumber>
-      <LevelTimer>50</LevelTimer>
+      <LevelTimer>30</LevelTimer>
       <Stage>Stage1</Stage>
       <enemySpawnInfo>
         <EnemySpawnInfo>
@@ -45,7 +45,7 @@
     </LevelInfo>
     <LevelInfo>
       <levelNumber>3</levelNumber>
-      <LevelTimer>50</LevelTimer>
+      <LevelTimer>40</LevelTimer>
       <Stage>Stage1</Stage>
       <enemySpawnInfo>
         <EnemySpawnInfo>
@@ -64,7 +64,7 @@
     </LevelInfo>
     <LevelInfo>
       <levelNumber>4</levelNumber>
-      <LevelTimer>50</LevelTimer>
+      <LevelTimer>40</LevelTimer>
       <Stage>Stage1</Stage>
       <enemySpawnInfo>
         <EnemySpawnInfo>
@@ -97,6 +97,25 @@
           <Health>200</Health>
           <Attack>25</Attack>
           <spawnAmount>3</spawnAmount>
+        </EnemySpawnInfo>
+      </enemySpawnInfo>
+    </LevelInfo>
+    <LevelInfo>
+      <levelNumber>5</levelNumber>
+      <LevelTimer>50</LevelTimer>
+      <Stage>Stage1</Stage>
+      <enemySpawnInfo>
+        <EnemySpawnInfo>
+          <Type>Common</Type>
+          <Health>100</Health>
+          <Attack>10</Attack>
+          <spawnAmount>3</spawnAmount>
+        </EnemySpawnInfo>
+        <EnemySpawnInfo>
+          <Type>UnCommon</Type>
+          <Health>200</Health>
+          <Attack>25</Attack>
+          <spawnAmount>4</spawnAmount>
         </EnemySpawnInfo>
       </enemySpawnInfo>
     </LevelInfo>
