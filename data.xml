@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PlayerModel xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-  <currentLevel>1</currentLevel>
+  <currentLevel>0</currentLevel>
   <score>20</score>
   <currency>0</currency>
   <levelInfos>
